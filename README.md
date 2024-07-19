@@ -1,1 +1,1 @@
-# telerymodule_spnow
+# Модуль spnow для юзербота Telery.
